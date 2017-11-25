@@ -25,9 +25,14 @@
 .entry-content,
 .entry-summary {
 	margin: $base__space-unit 0 0;
+
 }
 
 .page-links {
 	clear: both;
 	margin: 0 0 $base__space-unit;
+}
+
+body{
+	background: #222222;
 }
