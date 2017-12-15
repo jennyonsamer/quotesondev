@@ -35,7 +35,7 @@ $source_url = get_post_meta( get_the_ID(), '_qod_qoute_source_url', true);
 
 <?php if( is_home() || is_single() ):?>
 
-<button type="button" id="new-quote-button">Show me another</button>
+<button type="button" id="new-quote-button">Show Me Another!</button>
 
 <?php endif; ?>
 

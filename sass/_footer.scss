@@ -1,0 +1,18 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+
+.main-navigation{
+  margin: 1rem 0;
+li {
+  border-right: 1px solid #fff;
+  line-height: 15px;
+  padding: 0 1rem;
+ }
+li:first-child{
+  padding-left: 0;
+}
+li:last-child {
+  border-right: 0;
+}
+}
